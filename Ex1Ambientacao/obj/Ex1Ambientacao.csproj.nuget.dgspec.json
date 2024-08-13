@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\__Programação\\C#\\Ex1Ambientacao\\Ex1Ambientacao.csproj": {}
+    "E:\\__Programação\\C#\\ExAmbientacao\\Ex1Ambientacao\\Ex1Ambientacao.csproj": {}
   },
   "projects": {
-    "E:\\__Programação\\C#\\Ex1Ambientacao\\Ex1Ambientacao.csproj": {
+    "E:\\__Programação\\C#\\ExAmbientacao\\Ex1Ambientacao\\Ex1Ambientacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\__Programação\\C#\\Ex1Ambientacao\\Ex1Ambientacao.csproj",
+        "projectUniqueName": "E:\\__Programação\\C#\\ExAmbientacao\\Ex1Ambientacao\\Ex1Ambientacao.csproj",
         "projectName": "Ex1Ambientacao",
-        "projectPath": "E:\\__Programação\\C#\\Ex1Ambientacao\\Ex1Ambientacao.csproj",
+        "projectPath": "E:\\__Programação\\C#\\ExAmbientacao\\Ex1Ambientacao\\Ex1Ambientacao.csproj",
         "packagesPath": "C:\\Users\\Computador\\.nuget\\packages\\",
-        "outputPath": "E:\\__Programação\\C#\\Ex1Ambientacao\\obj\\",
+        "outputPath": "E:\\__Programação\\C#\\ExAmbientacao\\Ex1Ambientacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computador\\AppData\\Roaming\\NuGet\\NuGet.Config"
