@@ -1,0 +1,14 @@
+E:\__Programação\C#\Ex1Ambientacao\bin\Debug\net8.0\Ex1Ambientacao.exe
+E:\__Programação\C#\Ex1Ambientacao\bin\Debug\net8.0\Ex1Ambientacao.deps.json
+E:\__Programação\C#\Ex1Ambientacao\bin\Debug\net8.0\Ex1Ambientacao.runtimeconfig.json
+E:\__Programação\C#\Ex1Ambientacao\bin\Debug\net8.0\Ex1Ambientacao.dll
+E:\__Programação\C#\Ex1Ambientacao\bin\Debug\net8.0\Ex1Ambientacao.pdb
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.AssemblyInfoInputs.cache
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.AssemblyInfo.cs
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.csproj.CoreCompileInputs.cache
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.dll
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\refint\Ex1Ambientacao.dll
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.pdb
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\Ex1Ambientacao.genruntimeconfig.cache
+E:\__Programação\C#\Ex1Ambientacao\obj\Debug\net8.0\ref\Ex1Ambientacao.dll

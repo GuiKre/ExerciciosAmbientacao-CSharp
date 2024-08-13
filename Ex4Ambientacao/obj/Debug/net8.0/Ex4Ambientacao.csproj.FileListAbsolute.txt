@@ -1,0 +1,14 @@
+E:\__Programação\C#\Ex4Ambientacao\bin\Debug\net8.0\Ex4Ambientacao.exe
+E:\__Programação\C#\Ex4Ambientacao\bin\Debug\net8.0\Ex4Ambientacao.deps.json
+E:\__Programação\C#\Ex4Ambientacao\bin\Debug\net8.0\Ex4Ambientacao.runtimeconfig.json
+E:\__Programação\C#\Ex4Ambientacao\bin\Debug\net8.0\Ex4Ambientacao.dll
+E:\__Programação\C#\Ex4Ambientacao\bin\Debug\net8.0\Ex4Ambientacao.pdb
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.AssemblyInfoInputs.cache
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.AssemblyInfo.cs
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.csproj.CoreCompileInputs.cache
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.dll
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\refint\Ex4Ambientacao.dll
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.pdb
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\Ex4Ambientacao.genruntimeconfig.cache
+E:\__Programação\C#\Ex4Ambientacao\obj\Debug\net8.0\ref\Ex4Ambientacao.dll
